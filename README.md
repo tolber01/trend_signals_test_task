@@ -1,0 +1,1 @@
+# trend_signals_test_task
