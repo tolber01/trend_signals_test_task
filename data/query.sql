@@ -1,4 +1,4 @@
-SELECT TOP 5000
+SELECT TOP 10000
   body AS text, title, tags
 FROM posts
 WHERE DATEDIFF(month, getdate(), creationDate) >= -6
